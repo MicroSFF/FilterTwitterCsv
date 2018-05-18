@@ -17,6 +17,9 @@ Usage:
 	same location as the output file, with "_corrected.csv" appended to the 
 	output file name.
 
+References:
+        https://github.com/phatcher/CsvReader
+	
 Files:
 	LevenshteinDistance.cs
 		- contains an implementation of the Levenshtein distance algorithm to 
